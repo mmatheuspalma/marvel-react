@@ -2,13 +2,9 @@
 
 A React + Axios + Router application to find series from marvel api
 
-## Requirements 
-node v8.4.0 +
-npm v5.0.0 +
+## Install
 
-## Install 
-
-Simply run 
+Simply run
 
 ```shell
 npm install
