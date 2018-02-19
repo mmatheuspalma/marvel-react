@@ -1,0 +1,10 @@
+.series {
+    padding: 20px 0px;
+}
+
+.col-6 img {
+    width: auto;
+    max-height: 400px;
+    margin: 0 auto;
+    display: block;
+}
